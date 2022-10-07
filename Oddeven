@@ -1,0 +1,6 @@
+n = int(input("enter number:")) 
+def oddeven() :
+    if n%2 ==0:
+        print("number even") 
+    else :
+        print("number odd") 
